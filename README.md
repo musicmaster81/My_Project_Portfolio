@@ -9,7 +9,7 @@
 
 
 ## [Hacker News Posts Project](https://github.com/musicmaster81/Hacker_News_Project/blob/main/Hacker%20News%20Post%20Project.py)
-### For this project, we examine the posts from a popular technology news website called [Hacker News](https://news.ycombinator.com/). There are two different types of posts that users can submit to the Hacker News website, "Ask HN" and "Show HN". The former posts are used to ask a question, whereas the latter are used to impart content that users find interesting or insightful. We seek to answer two questions in this analysis:
+#### For this project, we examine the posts from a popular technology news website called [Hacker News](https://news.ycombinator.com/). There are two different types of posts that users can submit to the Hacker News website, "Ask HN" and "Show HN". The former posts are used to ask a question, whereas the latter are used to impart content that users find interesting or insightful. We seek to answer two questions in this analysis:
 - Which type of posts, on average, receive more comments?
 - Do posts created at a certain time have an above average amount of comments?
 
