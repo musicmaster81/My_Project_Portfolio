@@ -4,4 +4,5 @@
 - The price of apps on each respective platform
 - The most popular genres of apps
 - The most popular apps based on user ratings
+
 ### The idea behind this project is, if I were approached by employers who were considering launching an app, what insights could I provide? 
