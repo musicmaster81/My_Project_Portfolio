@@ -15,7 +15,7 @@
 
 ### With the importance of Social Media in our society, insights like these can be invaluable to marketing teams for companies looking to improve the amount of interatcion between the company and potential consumers. 
 
-## 3. [Legacy Automation Project]()
+## 3. [Legacy Automation Project](https://github.com/musicmaster81/Legacy_Automation_Project)
 #### This project is one that I created to assist me with a daily report that I run each day for work. It is arguably the project that I am most proud of here, seeing as how I was able to automate a 40 minute project to only take 2 min. Please note that the workflow will appear somewhat vague as I cannot disclose any information deemed sensitive. While I try to describe the flow via comments as best I can in the source code, here is a brief summary of what is required by this report each day:
 - Save a set of emails that contain data for that particular day
 - Edit an excel file to update the date
