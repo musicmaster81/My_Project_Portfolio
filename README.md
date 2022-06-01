@@ -23,4 +23,5 @@
 - Run previously constructed VBA macros to generate pdf's
 - Update links in another pivotal workbook to reflect accurate days
 - Run a batch file that uploads required documents to the cloud
+
 ### To reiterate, this is an example of what I have been able to accomplish using my skills as an aspiring Data Scientist to bring value to my organization by saving roughly 100hrs of work each year. 
