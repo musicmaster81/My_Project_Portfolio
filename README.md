@@ -16,7 +16,7 @@
 ### With the importance of Social Media in our society, insights like these can be invaluable to marketing teams for companies looking to improve the amount of interatcion between the company and potential consumers. 
 
 ## 3. [Legacy Automation Project](https://github.com/musicmaster81/Legacy_Automation_Project)
-#### This project is one that I created to assist me with a daily report that I run each day for work. It is arguably the project that I am most proud of here, seeing as how I was able to automate a 40 minute project to only take 2 min. Please note that the workflow will appear somewhat vague as I cannot disclose any information deemed sensitive. While I try to describe the flow via comments as best I can in the source code, here is a brief summary of what is required by this report each day:
+#### This project is one that I created to assist me with a daily report that I run each day for work. I was able to automate a 40 minute process and condense it down to 2 minutes. Please note that the workflow will appear somewhat vague as I would rather not disclose any remotely sensitive information. While I try to describe the flow via comments as best I can in the source code, here is a brief summary of what is required by this process each day:
 - Save a set of emails that contain data for that particular day
 - Edit an excel file to update the date
 - Update quntiessential workbooks with the most recent data
@@ -24,4 +24,4 @@
 - Update links in another pivotal workbook to reflect accurate days
 - Run a batch file that uploads required documents to the cloud
 
-### To reiterate, this is an example of what I have been able to accomplish using my skills as an aspiring Data Scientist to bring value to my organization by saving roughly 100hrs of work each year. 
+### To reiterate, this is an example of what I have been able to accomplish using my skills as an aspiring Data Scientist to bring value to my organization by saving roughly 158hrs of work each year. 
