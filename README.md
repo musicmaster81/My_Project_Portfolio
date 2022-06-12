@@ -7,7 +7,6 @@
 
 ### The idea behind this project is, if I were approached by employers who were considering launching an app, what insights could I provide? 
 
-
 ## 2. [Hacker News Posts Project](https://github.com/musicmaster81/Hacker_News_Project/blob/main/Hacker%20News%20Post%20Project.py)
 #### For this project, we examine the posts from a popular technology news website called [Hacker News](https://news.ycombinator.com/). There are two different types of posts that users can submit to the Hacker News website, "Ask HN" and "Show HN". The former posts are used to ask a question, whereas the latter are used to impart content that users find interesting or insightful. We seek to answer two questions in this analysis:
 - Which type of posts, on average, receive more comments?
@@ -25,3 +24,11 @@
 - Run a batch file that uploads required documents to the cloud
 
 ### To reiterate, this is an example of what I have been able to accomplish using my skills as an aspiring Data Scientist to bring value to my organization by saving roughly 158hrs of work each year. 
+
+## 4. [Traffic Analysis for I-94](https://github.com/musicmaster81/Traffic_Indicators_Project/blob/main/Traffic%20Indicators%20Project.py)
+#### For this project, we wish to analyze traffic volume for a section of the I-94 expressway in Minnesota between Minneapolis and Saint Paul. Some of the questions that we wish to answer are:
+- Is there a time of day where traffic volume is the most heavy?
+- Is there a difference in travel patterns on weekends as opposed to weekdays?
+- Do certain types of weather have an impact on traffic volume?
+
+### With the amount of travel only increasing after the pandemic, perhaps a company like Uber or Door Dash would like to know precisely when traffic will be bad so they can prepare or avoid these above average travel times. 
