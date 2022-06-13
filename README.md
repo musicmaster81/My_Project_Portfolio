@@ -1,4 +1,3 @@
-# The Portfolio of Daniel J. Garcia
 ## 1. [App Store Project](https://github.com/musicmaster81/App_Store_Project/blob/main/App%20Store%20Project.py)
 #### This project analyzes apps on both the Google Playstore and the App Store. The analysis looks at the following features of apps on each respective appstore:
 - The number of free apps on either store
