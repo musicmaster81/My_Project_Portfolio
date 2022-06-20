@@ -33,3 +33,12 @@
 - Do certain types of weather have an impact on traffic volume?
 
 ### With the amount of travel only increasing after the pandemic, perhaps a company like Uber or Door Dash would like to know precisely when traffic will be bad so they can prepare or avoid these above average travel times. 
+
+## 5. [Euro vs. the USD Analysis](https://github.com/musicmaster81/EURO_vs_USD_Project/blob/main/Exchange%20Rates%20Project.py)
+#### No project on my portfolio is probably more relevant than this one. For all of 2022, the Federal Reserve's FOMC has been hiking interest rates in an attempt to curb inflation that is boarderline run-away. This project takes a look at the value of the Euro compared to the USD to see examine the following:
+- Did the slashing of interest rates during the 2008 Recession strengthen or weaken the Euro compared to the USD?
+- Did the slashing of interest rates during the 2020 Pandemic strengthen or weaken the Euro compared to the USD?
+
+### My hypothesis is that since hiking rates generally strengthens a currency, we should expect to see the slasing of rates weaken a currency. This project is also mainly meant to showcase my matplotlib graph construction skills. Here is the image that I created to validate my hypothesis:
+
+![](https://github.com/musicmaster81/My_Project_Portfolio/blob/main/Images/EUR_USD_Graph.png)
