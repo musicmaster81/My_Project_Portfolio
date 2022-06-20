@@ -41,4 +41,4 @@
 
 ### My hypothesis is that since hiking rates generally strengthens a currency, we should expect to see the slasing of rates weaken a currency. This project is also mainly meant to showcase my matplotlib graph construction skills. Here is the image that I created to validate my hypothesis:
 
-![](https://github.com/musicmaster81/My_Project_Portfolio/blob/main/Images/EUR_USD_Graph.png)
+![](/Images/EUR_USD_Graph.png)
