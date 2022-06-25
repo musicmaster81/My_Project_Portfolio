@@ -15,8 +15,8 @@
 
 ### With the importance of Social Media in our society, insights like these can be invaluable to marketing teams for companies looking to improve the amount of interatcion between the company and potential consumers. 
 
-## 3. [Legacy Automation Project](https://github.com/musicmaster81/Legacy_Automation_Project)
-#### This project is one that I created to assist me with a daily report that I run each day for work. I was able to automate a 40 minute process and condense it down to 2 minutes. Please note that the workflow will appear somewhat vague as I would rather not disclose any remotely sensitive information. While I try to describe the flow via comments as best I can in the source code, here is a brief summary of what is required by this process each day:
+## 3. [Legacy Automation Project](https://github.com/musicmaster81/Legacy_Automation_Project/blob/main/Legacy%20Automation%20Project.py)
+#### This project is one that I created to assist me with a daily report that I run each day for work. I was able to automate a 40 minute process and condense it down to 2 minutes. Please note that the workflow will appear somewhat vague as I would rather not disclose any remotely sensitive information about our processes. While I try to describe the flow via comments as best I can in the source code, here is a brief summary of what is required by this process each day:
 - Save a set of emails that contain data for that particular day
 - Edit an excel file to update the date
 - Update quntiessential workbooks with the most recent data
@@ -24,7 +24,7 @@
 - Update links in another pivotal workbook to reflect accurate days
 - Run a batch file that uploads required documents to the cloud
 
-### To reiterate, this is an example of what I have been able to accomplish using my skills as an aspiring Data Scientist to bring value to my organization by saving roughly 158hrs of work each year. 
+### To reiterate, this is an example of what I have been able to accomplish using my skills as an aspiring Data Scientist and Python developer to bring value to my organization by saving roughly 158hrs of work each year. 
 
 ## 4. [Traffic Analysis for I-94](https://github.com/musicmaster81/Traffic_Indicators_Project/blob/main/Traffic%20Indicators%20Project.py)
 #### For this project, we wish to analyze traffic volume for a section of the I-94 expressway in Minnesota between Minneapolis and Saint Paul. Some of the questions that we wish to answer are:
