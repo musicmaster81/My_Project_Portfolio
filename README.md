@@ -42,3 +42,9 @@
 ### My hypothesis is that since hiking rates generally strengthens a currency, we should expect to see the slasing of rates weaken a currency. This project is also mainly meant to showcase my matplotlib graph construction skills. Here is the image that I created to validate my hypothesis:
 
 ![](/Images/EUR_USD_Graph.png)
+
+## 6. [Employee Exit Survey Project](https://github.com/musicmaster81/Employee_Exit_Project/blob/main/Exit%20Survey%20Project.ipynb)
+#### In a era where it appears that the average tenure for an employee at a company continues to decline, it is relevant for any organization to gain insight into just exactly why employees are leaving their jobs so soon. For this project, we take a closer look at this issue to determine the following:
+- Are employees with short tenures leaving their jobs due to some kind of dissatisfaction? Does this trend translate to employees with longer tenure as well?
+
+### This project's main goal is to showcase my data cleaning skills. The overwhelming majority of any Data Scientist's time is spent in the data cleaning/preparation phase. As a result, having the toolkit to properly wrangle and munge data is crucial. 
