@@ -48,3 +48,10 @@
 - Are employees with short tenures leaving their jobs due to some kind of dissatisfaction? Does this trend translate to employees with longer tenures as well?
 
 ### This project's main goal is to showcase my data cleaning skills. The overwhelming majority of any Data Scientist's time is spent in the data cleaning/preparation phase. As a result, having the toolkit to properly wrangle and munge data is crucial. 
+
+## 7. [Star Wars Survey Project](https://github.com/musicmaster81/Star_Wars_Survey_Project/blob/main/Star_Wars_Survey_Project.ipynb)
+#### Since the release of the recent "Obi-Wan" spinoff show on Disney+, what better way to celebrate than to perform data analysis on a Star Wars survey for a project? The data set was assembled by the company FiveThirtyEight, and throughout this project we look to answer the following questions:
+- Which Episode to people enjoy the most?
+- How many people have seen each episode?
+- Is there a split in results between males and females.
+### Similar to the Employee Exit Survey Project, this project is designed to showcase more of my data cleaning skills to generate important insights from unclean data. 
