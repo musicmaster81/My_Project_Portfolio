@@ -53,7 +53,7 @@
 #### Since the release of the recent "Obi-Wan" spinoff show on Disney+, what better way to celebrate than to perform data analysis on a Star Wars survey for a project? The data set was assembled by the company FiveThirtyEight, and throughout this project we look to answer the following questions:
 - Which Episode to people enjoy the most?
 - How many people have seen each episode?
-- Is there a split in results between males and females.
+- Is there a split in results between males and females?
 
 ### Similar to the Employee Exit Survey Project, this project is designed to showcase more of my data cleaning skills to generate important insights from unclean data. 
 
