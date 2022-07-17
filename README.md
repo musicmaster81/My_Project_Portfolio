@@ -56,3 +56,11 @@
 - Is there a split in results between males and females.
 
 ### Similar to the Employee Exit Survey Project, this project is designed to showcase more of my data cleaning skills to generate important insights from unclean data. 
+
+## 8. [CIA Factbook Project](https://github.com/musicmaster81/CIA_Factbook_Project/blob/main/CIA%20SQL%20Project.ipynb)
+#### Standard Query Language (SQL) is one of the most quintessential tools to possess in order to begin to interact with RDBMS. In this project, we use a data set published by the CIA that contains data on many of the worlds countries. We leverage this data set in order to anser the following questions:
+- What is the average population for each country on earth?
+- What is the average size of each country on the planet?
+- Which country is considered "overpopulated", that is, which country has an above average amount of people but below average land mass?
+
+### Again, this project's main goal is to showcase my knowledge of SQL and my proficiency in writing complex queries.
