@@ -3,12 +3,11 @@
 ## 1. [Titanic Classification Project](https://github.com/musicmaster81/Titanic_ML_Project/blob/main/Titanic%20Project.py)
 #### As part of a competition on Kaggle, I created this Machine Learning project to try and predict which passengers survived the tragic sinking of the Titanic. It follows a standard ML workflow, whereby we create our data matrix, define our feature and target vectors, and fit our classification model (Logistic Regression is the model I chose). However, in order to do so, we had to answer the following questions:
 - Which features are the best choices to use for our model?
--- This question can be answered using the following correlation heatmap matrix that I created:
-![](/Images/Titanic Correlation Heatmap.png)
 - Do we need to quantify any features that contain data as strings?
 - Which model is best for the end goal of the project?
 
-### As an aspiring Machine Learning Engineer, understanding concepts like bias, variance, and train/test splits are pivotal for the success of any model that I create. Note that the datasets for this project are stored in my Titanic Project respository along with my prediction series if you would like to verify the most recent model's accuracy. 
+### As an aspiring Machine Learning Engineer, understanding concepts like bias, variance, and train/test splits are pivotal for the success of any model that I create. Note that the datasets for this project are stored in my Titanic Project respository along with my prediction series if you would like to verify the most recent model's accuracy. Additionally, here is a correlation heatmap matrix that I used to choose my features:
+![](/Images/Titanic Correlation Heatmap.png)
 
 ## 2. [Hacker News Posts Project](https://github.com/musicmaster81/Hacker_News_Project/blob/main/Hacker%20News%20Post%20Project.py)
 #### For this project, we examine the posts from a popular technology news website called [Hacker News](https://news.ycombinator.com/). There are two different types of posts that users can submit to the Hacker News website, "Ask HN" and "Show HN". The former posts are used to ask a question, whereas the latter are used to impart content that users find interesting or insightful. We seek to answer two questions in this analysis:
