@@ -1,12 +1,14 @@
 # My Project Portfolio
 
-## 1. [App Store Project](https://github.com/musicmaster81/App_Store_Project/blob/main/App%20Store%20Project.py)
-#### This project analyzes apps on both the Google Playstore and the App Store. The analysis looks at the following features of apps on each respective appstore:
-- The number of free apps on either store
-- The most popular genres of apps
-- The most popular apps based on installations or downloads
+## 1. [Titanic Classification Project](https://github.com/musicmaster81/Titanic_ML_Project/blob/main/Titanic%20Project.py)
+#### As part of a competition on Kaggle, I created this Machine Learning project to try and predict which passengers survived the tragic sinking of the Titanic. It follows a standard ML workflow, whereby we create our data matrix, define our feature and target vectors, and fit our classification model (Logistic Regression is the model I chose). However, in order to do so, we had to answer the following questions:
+- Which features are the best choices to use for our model?
+-- This question can be answered using the following correlation heatmap matrix that I created:
+![](/Images/Titanic Correlation Heatmap.png)
+- Do we need to quantify any features that contain data as strings?
+- Which model is best for the end goal of the project?
 
-### The idea behind this project is, if I were approached by employers who were considering launching an app, what insights could I provide? 
+### As an aspiring Machine Learning Engineer, understanding concepts like bias, variance, and train/test splits are pivotal for the success of any model that I create. Note that the datasets for this project are stored in my Titanic Project respository along with my prediction series if you would like to verify the most recent model's accuracy. 
 
 ## 2. [Hacker News Posts Project](https://github.com/musicmaster81/Hacker_News_Project/blob/main/Hacker%20News%20Post%20Project.py)
 #### For this project, we examine the posts from a popular technology news website called [Hacker News](https://news.ycombinator.com/). There are two different types of posts that users can submit to the Hacker News website, "Ask HN" and "Show HN". The former posts are used to ask a question, whereas the latter are used to impart content that users find interesting or insightful. We seek to answer two questions in this analysis:
@@ -64,3 +66,11 @@
 - Which country is considered "overpopulated", that is, which country has an above average amount of people but below average land mass?
 
 ### Again, this project's main goal is to showcase my knowledge of SQL and my proficiency in writing complex queries.
+
+## 10. [App Store Project](https://github.com/musicmaster81/App_Store_Project/blob/main/App%20Store%20Project.py)
+#### This project analyzes apps on both the Google Playstore and the App Store. The analysis looks at the following features of apps on each respective appstore:
+- The number of free apps on either store
+- The most popular genres of apps
+- The most popular apps based on installations or downloads
+
+### The idea behind this project is, if I were approached by employers who were considering launching an app, what insights could I provide?
