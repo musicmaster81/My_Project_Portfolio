@@ -9,14 +9,23 @@
 ### As an aspiring Machine Learning Engineer, understanding concepts like bias, variance, and train/test splits are pivotal for the success of any model that I create. Note that the datasets for this project are stored in my Titanic Project respository along with my prediction series if you would like to verify the most recent model's accuracy. Additionally, here is a correlation heatmap matrix that I used to choose my features:
 ![](/Images/Titanic Correlation Heatmap.png)
 
-## 2. [Hacker News Posts Project](https://github.com/musicmaster81/Hacker_News_Project/blob/main/Hacker%20News%20Post%20Project.py)
+## 2. [Fandango Movie Project](https://github.com/musicmaster81/Fandango_Movie_Project/blob/main/Fandango_Movie_Project.ipynb)
+#### In 2015, there was a scandle involving the movie rating site Fandango in which they were accused of rating movies too high by rounding up ratings to the nearest star. Admitting that there was a bug, Fandango released a statement saying the issue had been resolved beginning in 2016. However, they provided no proof of fixes. The goal of this project is to answer the following questions:
+- Did Fandango keep their word when they announced they had fixed the rating issue?
+- Was there a marked difference in the way Fandango rated movies in 2015 vs. 2016?
+
+### This project is meant to showcase my ability to use statistical analysis to generate insights and answers for real world questions. Here are some graphs to help us with our answers:
+![](/Images/Fandango_KDE.png)
+![](/Images/Summary_Statistics_Bars.png)
+
+## 3. [Hacker News Posts Project](https://github.com/musicmaster81/Hacker_News_Project/blob/main/Hacker%20News%20Post%20Project.py)
 #### For this project, we examine the posts from a popular technology news website called [Hacker News](https://news.ycombinator.com/). There are two different types of posts that users can submit to the Hacker News website, "Ask HN" and "Show HN". The former posts are used to ask a question, whereas the latter are used to impart content that users find interesting or insightful. We seek to answer two questions in this analysis:
 - Which type of posts, on average, receive more comments?
 - Do posts created at a certain time have an above average amount of comments?
 
 ### With the importance of Social Media in our society, insights like these can be invaluable to marketing teams for companies looking to improve the amount of interatcion between the company and potential consumers. 
 
-## 3. [Legacy Automation Project](https://github.com/musicmaster81/Legacy_Automation_Project/blob/main/Legacy%20Automation%20Project.py)
+## 4. [Legacy Automation Project](https://github.com/musicmaster81/Legacy_Automation_Project/blob/main/Legacy%20Automation%20Project.py)
 #### This project is one that I created to assist me with a daily report that I run each day for work. I was able to automate a 40 minute process and condense it down to 2 minutes. Please note that the workflow will appear somewhat vague as I would rather not disclose any remotely sensitive information about our processes. While I try to describe the flow via comments as best I can in the source code, here is a brief summary of what is required by this process each day:
 - Save a set of emails that contain data for that particular day
 - Edit an excel file to update the date
@@ -27,7 +36,7 @@
 
 ### To reiterate, this is an example of what I have been able to accomplish using my skills as an aspiring Data Scientist and Python developer to bring value to my organization by saving roughly 158hrs of work each year. 
 
-## 4. [Traffic Analysis for I-94](https://github.com/musicmaster81/Traffic_Indicators_Project/blob/main/Traffic%20Indicators%20Project.py)
+## 5. [Traffic Analysis for I-94](https://github.com/musicmaster81/Traffic_Indicators_Project/blob/main/Traffic%20Indicators%20Project.py)
 #### For this project, we wish to analyze traffic volume for a section of the I-94 expressway in Minnesota between Minneapolis and Saint Paul. Some of the questions that we wish to answer are:
 - Is there a time of day where traffic volume is the most heavy?
 - Is there a difference in travel patterns on weekends as opposed to weekdays?
@@ -35,7 +44,7 @@
 
 ### With the amount of travel only increasing after the pandemic, perhaps a company like Uber or Door Dash would like to know precisely when traffic will be bad so they can prepare or avoid these above average travel times. 
 
-## 5. [Euro vs. the USD Analysis](https://github.com/musicmaster81/EURO_vs_USD_Project/blob/main/Exchange%20Rates%20Project.py)
+## 6. [Euro vs. the USD Analysis](https://github.com/musicmaster81/EURO_vs_USD_Project/blob/main/Exchange%20Rates%20Project.py)
 #### No project on my portfolio is probably more relevant than this one. For all of 2022, the Federal Reserve's FOMC has been hiking interest rates in an attempt to curb inflation that is boarderline run-away. This project takes a look at the value of the Euro compared to the USD to examine the following:
 - Did the slashing of interest rates during the 2008 Recession strengthen or weaken the Euro compared to the USD?
 - Did the slashing of interest rates during the 2020 Pandemic strengthen or weaken the Euro compared to the USD?
@@ -44,13 +53,13 @@
 
 ![](/Images/EUR_USD_Graph.png)
 
-## 6. [Employee Exit Survey Project](https://github.com/musicmaster81/Employee_Exit_Project/blob/main/Exit%20Survey%20Project.ipynb)
+## 7. [Employee Exit Survey Project](https://github.com/musicmaster81/Employee_Exit_Project/blob/main/Exit%20Survey%20Project.ipynb)
 #### In an era where it appears that the average tenure for an employee continues to decline, it is relevant for any organization to gain insight into just exactly why employees are leaving their jobs so soon. For this project, we take a closer look at this issue to determine the following:
 - Are employees with short tenures leaving their jobs due to some kind of dissatisfaction? Does this trend translate to employees with longer tenures as well?
 
 ### This project's main goal is to showcase my data cleaning skills. The overwhelming majority of any Data Scientist's time is spent in the data cleaning/preparation phase. As a result, having the toolkit to properly wrangle and munge data is crucial. 
 
-## 7. [Star Wars Survey Project](https://github.com/musicmaster81/Star_Wars_Survey_Project/blob/main/Star_Wars_Survey_Project.ipynb)
+## 8. [Star Wars Survey Project](https://github.com/musicmaster81/Star_Wars_Survey_Project/blob/main/Star_Wars_Survey_Project.ipynb)
 #### Since the release of the recent "Obi-Wan" spinoff show on Disney+, what better way to celebrate than to perform data analysis on a Star Wars survey for a project? The data set was assembled by the company FiveThirtyEight, and throughout this project we look to answer the following questions:
 - Which Episode to people enjoy the most?
 - How many people have seen each episode?
@@ -58,7 +67,7 @@
 
 ### Similar to the Employee Exit Survey Project, this project is designed to showcase more of my data cleaning skills to generate important insights from unclean data. 
 
-## 8. [CIA Factbook Project](https://github.com/musicmaster81/CIA_Factbook_Project/blob/main/CIA%20SQL%20Project.ipynb)
+## 9. [CIA Factbook Project](https://github.com/musicmaster81/CIA_Factbook_Project/blob/main/CIA%20SQL%20Project.ipynb)
 #### Standard Query Language (SQL) is one of the most quintessential tools to possess in order to begin to interact with RDBMS. In this project, we use a data set published by the CIA that contains data on many of the worlds countries. We leverage this data set in order to anser the following questions:
 - What is the average population for each country on earth?
 - What is the average size of each country on the planet?
