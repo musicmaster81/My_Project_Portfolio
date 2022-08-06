@@ -14,9 +14,8 @@
 - Did Fandango keep their word when they announced they had fixed the rating issue?
 - Was there a marked difference in the way Fandango rated movies in 2015 vs. 2016?
 
-### This project is meant to showcase my ability to use statistical analysis to generate insights and answers for real world questions. Here are some graphs to help us with our answers:
+### This project is meant to showcase my ability to use statistical analysis to generate insights and answers for real world questions. Here is a Kernal Density Estimation that will help us craft an answer:
 ![](/Images/Fandango_KDE.png)
-![](/Images/Summary_Statistics_Bars.png)
 
 ## 3. [Hacker News Posts Project](https://github.com/musicmaster81/Hacker_News_Project/blob/main/Hacker%20News%20Post%20Project.py)
 #### For this project, we examine the posts from a popular technology news website called [Hacker News](https://news.ycombinator.com/). There are two different types of posts that users can submit to the Hacker News website, "Ask HN" and "Show HN". The former posts are used to ask a question, whereas the latter are used to impart content that users find interesting or insightful. We seek to answer two questions in this analysis:
