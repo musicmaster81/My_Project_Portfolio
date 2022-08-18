@@ -30,7 +30,7 @@
 #### With the continuation of the complete legalization of Sports betting across the US, one could expect that the number of gambling addicts across the country will continue to increase. This project is meant to help individuals addicted to playing the lottery visualize how slim their chances are of winning by answering the following questions:
 - What is the probability of winning the big prize in a single ticket?
 - What is the probability of winning a prize if we play 40 tickets?
-- What is the probability of having at lest 5 winning numbers on a single lottery ticket?
+- What is the probability of having at least 5 winning numbers on a single lottery ticket?
 
 ### This project is meant to showcase my knowledge of Probability and Statistics. We craft several functions in here that are based upon the ever-important "n-choose-k" combination forumula.
 
