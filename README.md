@@ -1,5 +1,7 @@
 # The Portfolio of Danny Garcia
 
+##### Email: dannyboy4928398@gmail.com 
+
 ## 1. [Titanic Classification Project](https://github.com/musicmaster81/Titanic_ML_Project/blob/main/Titanic%20Project.py)
 #### As part of a competition on Kaggle, I created this Machine Learning project to try and predict which passengers survived the tragic sinking of the Titanic. It follows a standard ML workflow, whereby we create our data matrix, define our feature and target vectors, and fit our classification model (Logistic Regression is the model I chose). However, in order to do so, we had to answer the following questions:
 - Which features are the best choices to use for our model?
