@@ -15,7 +15,7 @@
 - Conditional probability fundamentals were useed in order to calculate all of the necessary elements of the Naive Bayes algorithm formula.
 - Smoothing techniques like the addition of a smooting parameter were used to help address issues pertaining to the vocabulary set.
 
-### This is yet another project dedicated to showcase my abilities as a Machine Learning engineer. Spam classification algorithms are used extensively within email applications to identify spam emails and automatically redirect these emails from your inbox to you spam folder. As such, this project, with a few modifications, has numerous "real world" applications. 
+### This is yet another project dedicated to showcase my abilities as a Machine Learning engineer. Spam classification algorithms are used extensively within email applications to identify spam emails and automatically redirect these emails from your inbox to your spam folder. As such, this project, with a few modifications, has numerous "real world" applications. 
 
 ## 3. [Fandango Movie Project](https://github.com/musicmaster81/Fandango_Movie_Project/blob/main/Fandango_Movie_Project.ipynb)
 #### In 2015, there was a scandle involving the movie rating site Fandango in which they were accused of rating movies too high by rounding up ratings to the nearest star. Admitting that there was a bug, Fandango released a statement saying the issue had been resolved beginning in 2016. However, they provided no proof of fixes. The goal of this project is to answer the following questions:
