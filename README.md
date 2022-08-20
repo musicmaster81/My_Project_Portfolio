@@ -12,8 +12,8 @@
 ## 2. [SMS Spam Classification Project](https://github.com/musicmaster81/Spam_Classifier_Project/blob/main/Spam_Classifier_Project.ipynb)
 #### One of the major problems plaguing technologically advanced society is the never ending amount of robocalls and spam text messages. For this project, I created a Classification model that helps predict if a given message is spam or not. The following techniques were used in this project:
 - Multinomial Naive Bayes was used to calculate the probability of a message being spam given the words in the messge.
-- Conditional probability fundamentals in order to calculate all of the necessary elements of the Naive Bayes algorithm formula.
-- Smoothing techniques like the addition of a smooting parameter.
+- Conditional probability fundamentals were useed in order to calculate all of the necessary elements of the Naive Bayes algorithm formula.
+- Smoothing techniques like the addition of a smooting parameter were used to help address issues pertaining to the vocabulary set.
 
 ### This is yet another project dedicated to showcase my abilities as a Machine Learning engineer. Spam classification algorithms are used extensively within email applications to identify spam emails and automatically redirect these emails from your inbox to you spam folder. As such, this project, with a few modifications, has numerous "real world" applications. 
 
