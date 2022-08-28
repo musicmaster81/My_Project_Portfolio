@@ -26,7 +26,7 @@
 - For which value of the hyperparameter K gives us the best performance?
 - Is a Univariate or Multivariate model better for predicting the price?
 
-## While not necessarily the most robust algorithm, the K-Nearest-Neighbors model is a fundamental Machine Learning algorithm to understand. I would argue that one could consider it a sort of "predecessor" to more robust algorithms like Linear Regression or even Neural Networks. It's also a good model to practice tuning techniques. As an example, here is a visualization of my model's perfornace for various values of neighbors, k:
+### While not necessarily the most robust algorithm, the K-Nearest-Neighbors model is a fundamental Machine Learning algorithm to understand. I would argue that one could consider it a sort of "predecessor" to more robust algorithms like Linear Regression or even Neural Networks. It's also a good model to practice tuning techniques. As an example, here is a visualization of my model's perfornace for various values of neighbors, k:
 ![](/Images/K_Values2.png)
 
 ## 4. [SMS Spam Classification Project](https://github.com/musicmaster81/Spam_Classifier_Project/blob/main/Spam_Classifier_Project.ipynb)
