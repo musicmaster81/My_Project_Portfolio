@@ -8,7 +8,7 @@
 - Which features are most correlated with the Sale Price of each home?
 - How should outliers be handles to not wreak havoc on our model?
 
-### While Logistic Regression is considered a very simple Machine Learning models, the techniques that I learned throughout this project has really helped me understand what it takes to set-up and follow through on a Machine Learning workflow. One of the ways I was able to determine that I needed to scale my data and get rid of outliers was by plotting both a kernel density estimation along with a boxplot, which I'll show here:
+### While Linear Regression may be considered a less robust Machine Learning model, the techniques that I learned throughout this project has really helped me understand what it takes to set-up and follow through on a Machine Learning workflow. One of the ways I was able to determine that I needed to scale my data and get rid of outliers was by plotting both a kernel density estimation along with a boxplot, which I'll show here:
 ![](/Images/Housing_Boxplot.png)
 
 ## 2. [Titanic Classification Project](https://github.com/musicmaster81/Titanic_ML_Project/blob/main/Titanic%20Project.py)
