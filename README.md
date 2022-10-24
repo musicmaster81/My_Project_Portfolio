@@ -1,6 +1,7 @@
 # The Portfolio of Danny Garcia
+# Please visit [this link](https://musicmaster81.github.io/Danny_Portfolio/) to see my most up to date portfolio
 
-##### Email: dannyboy4928398@gmail.com 
+##### Email: dannyboy4928398@gmail.com
 
 ## 1. [House Prices Machine Learning Project](https://github.com/musicmaster81/Housing_Prices_Project/blob/main/House%20Prices%20Project%20v2.py)
 #### Attempting to find a "deal" on a piece of real estate is a problem that has plagued investors for years. Luckily, thanks to a data set provided by the Housing Prices Kaggle competition, I was able to create a Regression model that is able to accurately depict the prices of homes in a small town in Iowa. There were many technical skills involved in this project, but some of the problems that I had to overcome were:
